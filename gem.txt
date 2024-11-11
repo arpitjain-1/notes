@@ -1,0 +1,21 @@
+Gems:-
+1. Pundit or CanCanCan:- Authorization and managing user permissions
+2. Sidekiq:- Asynchronous task
+3. Rolify:- Role based Access Controll
+4. ActiveAdmin or RailsAdmin:- Create the robust admin panel
+
+Advance Topics:-
+1. API development with JSON. Use tools like Jbuilder or ActiveModelSerializers
+2. WebSockets and ActionCable:- Real time features
+
+Deployment 
+1. AWS
+2. Heroku
+
+Server Hosting and Load balancing
+1. Nginx
+2. Apache Kafka
+
+Database
+1. Postgresql
+2. MongoDB
